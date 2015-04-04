@@ -86,7 +86,7 @@ Architecture-specific notes:
 Usage instructions:  Run "minerd --help" to see options.
 
 To Connect to BSTY-P2Pool using your GlobalBoost-Y Wallet Address:
-    ./minerd --algo=yescrypt -o 54.68.63.254:7225 -u BSTYaddress -p x
+    ./minerd --algo=yescrypt -o BSTY-POOL-URL -u BSTYaddress -p x
 
 Note: Do not mine to online wallet addresses, including exchanges, as you may experience loss of coins due to how newly mined coins are confirmed.
 
